@@ -1,4 +1,4 @@
-
+Enhance ScreenFlow for macOS with ScreenFlow for macOS new Automation: time-remapping & lower-thirds, the #1 automation. Includes time-remapping and lower-thirds for a smoother
 
 
 
